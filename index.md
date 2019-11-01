@@ -140,7 +140,6 @@
 - Are there grey areas possible in feature responsibility?
 - Changes in the one product can break things surprisingly<br>(CaaS deprecates feature, etc.)
 
-
 ---
 
 ## Implementation and maintenance cost
@@ -153,10 +152,9 @@
 - Do the features you need require significant custom dev?
 - What about integrations (authentication, etc.)?
 
-
 --
 
-### Project and program management cost?
+### Project and program management cost
 
 - You will have more vendors, how will this affect cost?
 - What about complexity over years, who knows the system from A to Z in five years?
@@ -168,7 +166,6 @@
 - Hosting prices for head can vary (static, dynamic, faas)
 - When using a CaaS, how will the pricing of it scale?
 - What if CaaS prices change, can you switch backends feasibly?
-
 
 ---
 
@@ -195,10 +192,14 @@
   - Do you need to add more services (for forms, layouts management, etc)
   - Is switching vendors feasible if you want to do so?
 
+## Evolving scene
+
+- Are we still lacking best practises?
+- If so, why? It's been years now... :)
+- Maybe a hybrid solution is more pratical than all-in?
+
 ---
 
 ## Wrapping up
-- Maybe a hybrid solution is more realistic for large operations?
-- Are we still lacking best practises?
 - Did you learn something new
 - Discussions
