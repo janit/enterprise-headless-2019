@@ -7,9 +7,34 @@
 ## Agenda
 
 - Let's discuss a how headless CMS<br>fits in a large enterprise setting
-- An interactive session, ask and comment!
+- An interactive session, ask and comment
 - Everyone's opinions and experiences valuable
-- We are all here to learn!
+- We are all here to learn
+
+--
+
+## About me
+
+- Who
+  - Jani Tarvainen
+  - Web things for 20 odd years
+  - Tech stuff mostly, currently dev advocate
+- From where
+  - eZ Systems (makers of eZ Platform)
+  - Open Source with commercial support (EE)
+  - CMS/DXP with content APIs (REST+GraphQL)
+
+--
+
+## A few terms
+
+- "Headless CMS"
+  - Some system providing an API providing raw content over HTTP
+  - Some system to render this 
+
+- Enterprise
+  - Organization with hundreds+ of editors
+  - Tens+ web properties (public and/or private)
 
 ---
 
@@ -20,7 +45,7 @@
 ### Who is using a headless CMS at scale?
 
 - What are they using it for?
-- To replace a web publishing platform?
+- To replace a web publishing platform? Intranet?
 - A mobile or web app that has some content?
 - Consolidating or using for individual projects?
 
@@ -52,6 +77,13 @@
 - Static HTML generation
 - Dynamic server (custom, Next.js, Nuxt.js, etc.)
 - FaaS (AWS Lambda or similar)
+
+--
+
+### Hmmm
+- You have a problem (legacy CMS)
+- You introduce a Headless CMS + Front end
+- Now you have three problems?
 
 ---
 
@@ -130,7 +162,7 @@
 - Running a server (Node, etc.)?
   - Some extra complexity, very flexible
 - Serverless (AWS Lambda, etc.)?
-  - Pay as you go, flexible, how is the
+  - Pay as you go, flexible, maturity of products
 
 --
 
@@ -192,6 +224,8 @@
   - Do you need to add more services (for forms, layouts management, etc)
   - Is switching vendors feasible if you want to do so?
 
+--
+
 ## Evolving scene
 
 - Are we still lacking best practises?
@@ -200,6 +234,10 @@
 
 ---
 
+## Fin
+
+--
+
 ## Wrapping up
-- Did you learn something new
+- Did you learn something new?
 - Discussions
